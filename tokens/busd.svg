@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127.99999"
+   height="127.99999"
+   viewBox="0 0 33.866664 33.866664"
+   version="1.1"
+   id="svg254"
+   inkscape:export-filename="busd.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview256"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs251" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-opacity:0.684597"
+       id="path427"
+       cx="16.933332"
+       cy="16.933332"
+       r="16.933332" />
+    <g
+       id="Layer_2"
+       data-name="Layer 2"
+       transform="matrix(0.08625497,0,0,0.08625497,2.4252474,2.3815145)">
+      <g
+         id="Layer_1-2"
+         data-name="Layer 1">
+        <path
+           class="cls-1"
+           d="m 168.2,0.71 41.5,42.5 -104.5,104.5 -41.5,-41.5 z"
+           id="path8"
+           style="fill:#f0b90b;stroke:#f0b90b" />
+        <path
+           class="cls-1"
+           d="m 231.2,63.71 41.5,42.5 -167.5,167.5 -41.5,-41.5 z"
+           id="path10"
+           style="fill:#f0b90b;stroke:#f0b90b" />
+        <path
+           class="cls-1"
+           d="m 42.2,126.71 41.5,42.5 -41.5,41.5 -41.5,-41.5 z"
+           id="path12"
+           style="fill:#f0b90b;stroke:#f0b90b" />
+        <path
+           class="cls-1"
+           d="m 294.2,126.71 41.5,42.5 -167.5,167.5 -41.5,-41.5 z"
+           id="path14"
+           style="fill:#f0b90b;stroke:#f0b90b" />
+      </g>
+    </g>
+  </g>
+</svg>
