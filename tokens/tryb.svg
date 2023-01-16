@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127.99999"
+   height="127.99999"
+   viewBox="0 0 33.866664 33.866664"
+   version="1.1"
+   id="svg577"
+   inkscape:export-filename="roco.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="cly.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview579"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs574" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="display:inline;fill:#1e284c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path800"
+       cx="16.933332"
+       cy="16.933332"
+       r="16.933332" />
+    <path
+       d="m 10.503473,4.2333322 2.903745,0.7791173 V 26.536927 c 5.594416,-0.761354 8.528014,-4.179609 9.101071,-10.581488 l 0.01664,-0.194909 -6.252891,-1.714988 v -2.989041 l 9.206824,2.525046 0.001,1.468759 -0.001,0.0451 c -0.01302,0.497711 -0.06336,0.979368 -0.113253,1.444239 -0.741673,6.91186 -4.038041,10.311226 -7.842389,11.867529 -2.42991,0.861667 -4.769827,1.26919 -7.01975,1.222569 z m 5.765249,1.5388901 6.795219,1.8214928 V 10.614034 L 16.268722,8.6913499 Z"
+       id="Symbol"
+       fill="url(#linearGradient-1)"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583" />
+  </g>
+</svg>
