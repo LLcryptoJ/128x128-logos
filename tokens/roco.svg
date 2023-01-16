@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127.99999"
+   height="127.99999"
+   viewBox="0 0 33.866664 33.866664"
+   version="1.1"
+   id="svg577"
+   inkscape:export-filename="roco.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="cly.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview579"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs574" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="display:inline;fill:#fc3f5c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path800"
+       cx="16.933332"
+       cy="16.933332"
+       r="16.933332" />
+    <g
+       id="Group_11518"
+       data-name="Group 11518"
+       transform="matrix(0.80248099,0,0,0.80248099,5.5344911,7.0130623)"
+       style="fill:#ffffff;fill-opacity:1">
+      <rect
+         id="Rectangle_17428"
+         data-name="Rectangle 17428"
+         width="5.151"
+         height="4.3579998"
+         transform="translate(0,6.222)"
+         fill="#fc3f5c"
+         x="0"
+         y="0"
+         style="fill:#ffffff;fill-opacity:1" />
+      <rect
+         id="Rectangle_17429"
+         data-name="Rectangle 17429"
+         width="5.151"
+         height="5.151"
+         transform="translate(0,12.561)"
+         fill="#fc3f5c"
+         x="0"
+         y="0"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="r-seeklogo.com"
+         transform="translate(3.655)"
+         style="fill:#ffffff;fill-opacity:1">
+        <path
+           id="Path_31501"
+           data-name="Path 31501"
+           d="m 105.946,51.829 v 24.726 h 7.472 V 66.94 c 1.868,0 2.981,-0.408 4.2,1.831 1.868,3.205 4.2,7.784 4.2,7.784 h 8.882 c 0,0 -5.6,-9.158 -6.071,-9.616 -0.861,-0.916 -1.868,-0.916 -3.269,-1.374 2.8,-0.458 5.414,-1.62 6.323,-4.112 a 7.38,7.38 0 0 0 -1,-7.155 c -1.474,-1.545 -2.986,-2.471 -6.722,-2.471 z m 7.472,5.15 h 4.9 a 2.3,2.3 0 0 1 0,4.579 h -4.9 z"
+           transform="translate(-105.946,-51.829)"
+           fill="#fc3f5c"
+           style="fill:#ffffff;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
