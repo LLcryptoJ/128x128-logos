@@ -1,1 +1,1 @@
-All logos inside a round background to be used with circled masks.
+All logos inside a colored round background to be used with circled masks.
