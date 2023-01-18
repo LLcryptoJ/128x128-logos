@@ -1,1 +1,1 @@
-All logos inside a round background to fit in tokenlists using a circled mask
+All logos inside a round background to be used with circled masks.
