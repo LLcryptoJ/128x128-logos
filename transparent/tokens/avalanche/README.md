@@ -1,1 +1,1 @@
-Avalanche tokens only
+ChainID: 43114
