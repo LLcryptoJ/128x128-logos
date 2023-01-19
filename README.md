@@ -1,7 +1,10 @@
-Repo contains logos for chains, bridges and tokens 
+Repo contains logos for chains, bridges and tokens.
 
-All logos in 128x128px format as .png & .svg files
+All logos have a resolution of 128x128px.
 
-Transparent version as well as background colored versions with a circle mask
+All logos come in .png & .svg files
 
-Contributing to this repo requires to use https://vecta.io/nano for your SVG files.
+Repo is slipt into a) transparent background logos and b) logos within a colored circle mask.
+
+
+!Contributing to this repo requires to use https://vecta.io/nano for your SVG files.
