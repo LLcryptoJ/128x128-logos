@@ -1,0 +1,1 @@
+Logos with transparent background
