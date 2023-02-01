@@ -1,1 +1,1 @@
-
+Logos with colored background
