@@ -1,4 +1,4 @@
-Repo contains logos for chains, bridges and tokens.
+Repo contains logos for chains, bridges, dexes and tokens.
 
 All logos have a resolution of 128x128px.
 
