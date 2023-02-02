@@ -1,1 +1,1 @@
-DEX logos
+DEX logos sorted by chains
