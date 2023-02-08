@@ -1,7 +1,13 @@
-Repo contains logos for chains, bridges, dexes and tokens.
+LOGO REPO
 
-All logos have a resolution of 128x128px.
+Repo for chains, bridges, dexes, tokens & projects.
+
+All logo size is 128x128px.
 
 All logos in .png & .svg file formats.
 
-!Contributing to this repo requires to use https://vecta.io/nano for your SVG files.
+All .svg files are compressed.
+
+!Contributing to this repo requires to use https://vecta.io/nano for your .svg files.
+
+contact: llcryptoj@gmail.com
