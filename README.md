@@ -1,6 +1,6 @@
 LOGO REPO
 
-Repo for chains, bridges, dexes, tokens & projects
+Repo for chains, bridges, dexes, tokens & projects.
 
 All logo size is 128x128px.
 
